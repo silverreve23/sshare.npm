@@ -1,0 +1,24 @@
+{
+  "name": "sshare",
+  "version": "1.0.0",
+  "description": "Share buttons for social network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silverreve23/sshare.git"
+  },
+  "keywords": [
+    "social",
+    "share",
+    "sbk"
+  ],
+  "author": "SBKInfo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/silverreve23/sshare/issues"
+  },
+  "homepage": "https://github.com/silverreve23/sshare#readme"
+}
