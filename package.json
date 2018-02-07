@@ -1,5 +1,5 @@
 {
-  "name": "sshare",
+  "name": "ssharenpm",
   "version": "1.0.0",
   "description": "Share buttons for social network",
   "main": "index.js",
@@ -18,7 +18,7 @@
   "author": "SBKInfo",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/silverreve23/sshare/issues"
+    "url": "https://github.com/silverreve23/sshare"
   },
   "homepage": "https://github.com/silverreve23/sshare#readme"
 }
