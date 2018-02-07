@@ -8,7 +8,7 @@
 
 ## How to install
 
-* **npm install ssharenpm**
+**npm install ssharenpm**
 
 ## Example
 
