@@ -10,6 +10,14 @@
 
 **npm install ssharenpm**
 
+## Support socials
+
+* Facebook (fb)
+* Vkontakte (vk)
+* Odnoklassniki (ok)
+* Twitter (tw)
+* Google+ (glp)
+
 ## Example
 
 ```javascript
